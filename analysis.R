@@ -1,3 +1,7 @@
+# a set of common functions for analysis of SNP in Ca
+# Copyright (C) 2023 Jose V. Die  <jose.die@uco.es>
+# Distributed under terms of the MIT license.
+
 # Load GFF objects
 #  ----------------------------------------------------------------------------
 load("data/gff.rda")
